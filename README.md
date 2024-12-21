@@ -37,6 +37,7 @@ The **Sign Language MNIST** dataset is used for training and testing. The datase
 - **Images**: 28x28 grayscale images of hand gestures.
 - **Labels**: 26 classes representing the alphabets A-Z.
 
+  You can download the dataset from Kaggle's [Sign Language MNIST dataset](https://www.kaggle.com/datasets/datamunge/sign-language-mnist?select=sign_mnist_train).
 ---
 
 ## Results
